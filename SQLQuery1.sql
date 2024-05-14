@@ -5,7 +5,7 @@ select * from Andmed
 
 -- 1. Ülesanne
 alter table Andmed
-add Id int identity(1, 1) primary key 
+add Id int idenatity(1, 1) primary key 
 
 -- 2. Ülesanne
 alter table Andmed
